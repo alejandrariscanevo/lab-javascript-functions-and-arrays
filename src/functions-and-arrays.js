@@ -19,6 +19,7 @@ if (!words.length){ //si el arreglo no tiene longitud (vacio) me da 0
   return contador;
 }
 
+//este es un comentario random
 // Iteration #3: Calculate the sum
 
 const numbers = [6, 12, 1, 18, 13, 16, 2, 1, 8, 10];
